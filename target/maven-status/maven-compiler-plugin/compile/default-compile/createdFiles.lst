@@ -1,0 +1,5 @@
+com\webserverFromScratch\httpserver\config\Configuration.class
+com\webserverFromScratch\httpserver\config\ConfigurationManager.class
+com\webserverFromScratch\httpserver\util\Json.class
+com\webserverFromScratch\httpserver\config\HttpConfigurationException.class
+com\webserverFromScratch\httpserver\HttpServer.class
